@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Jokes</string>
+    <string name="netwoork_error">Network not available. Please check your network!</string>
+</resources>
